@@ -3,9 +3,9 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>Welcome to the kingdoms</h1>
 
-<p>My first paragraph.</p>
+<p>COMEING SOON.</p>
 
 </body>
 </html>
